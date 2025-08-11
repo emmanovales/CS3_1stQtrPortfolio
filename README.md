@@ -20,7 +20,7 @@
 1. Create an account in [github.com ](https://github.com).  Use your **pshs.edu.ph** email account.
 2. Open the VSCode terminal by pressing **Ctrl-`**.
 3. **Type the following:**
-   - git init
+   - git initG
    - git config --global user.name "github username" 
    - git config --global user.email "your email used in github"
 4. Press **Ctrl-Shift-G** to open source control. Type **"First Commit"** on the Message text box.
